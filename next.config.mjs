@@ -6,7 +6,6 @@
 export default nextConfig;*/
 
 const nextConfig = {
-  output: "export",
   skipTrailingSlashRedirect: true,
   trailingSlash: true,
   images: {
